@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your changes.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeunbi95&count_private=true)](https://github.com/jeunbi95/github-readme-stats)
 
 
-
+<!--
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkjang0717)](https://solved.ac/kkjang0717/)
+--->
 
